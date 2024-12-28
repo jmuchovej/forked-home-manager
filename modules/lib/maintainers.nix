@@ -634,4 +634,10 @@
     github = "ALameLlama";
     githubId = 55490546;
   };
+  kpbaks = {
+    name = "Kristoffer Plagborg Bak Sørensen";
+    email = "kristoffer.pbs@gmail.com";
+    github = "kpbaks";
+    githubId = 57013304;
+  };
 }
