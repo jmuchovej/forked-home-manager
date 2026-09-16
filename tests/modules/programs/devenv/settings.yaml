@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+shell:
+  prompt_prefix: false
+tui:
+  behavior:
+    log_preview_lines: 20
+    mouse: false
+  theme:
+    preset: terminal
+  viewport: top
+version: 1
